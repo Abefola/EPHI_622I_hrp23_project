@@ -1,0 +1,335 @@
+ID,Reg,hrp23_status_f,Age,k13_R622I,District,Long,Lat,pfldh_pcr_parasitemia_mean,seqID,MOI
+1138A,Amhara,pfhrp2+/3+,16,Mutant,Metema,36.157,12.954,7802.08,1138A-EPHI-2,1
+1294A,Amhara,pfhrp2+/3+,23,Mutant,Metema,36.157,12.954,11123.58,1294A-EPHI-2,1
+1391A,Amhara,pfhrp2+/3-,12,Mutant,Metema,36.157,12.954,62527.36,1391A-EPHI-2,1
+1916A,Amhara,pfhrp2+/3-,15,Mutant,Quara,35.746,12.5,17340.44,1916A-EPHI-2,1
+2049A,Amhara,pfhrp2+/3-,NA,Mutant,Metema,36.157,12.954,633.25,2049A-EPHI-2,1
+2079A,Amhara,pfhrp2+/3-,NA,Mutant,Metema,36.157,12.954,9958.79,2079A-EPHI-2,1
+2083A,Amhara,pfhrp2+/3-,28,Mutant,West_ Armachiho,36.45,13.39,14418.41,2083A-EPHI-2,1
+2241A,Amhara,pfhrp2+/3-,18,Mutant,West_ Armachiho,36.45,13.39,22425.75,2241A-EPHI-1,1
+2585A,Gambella,pfhrp2+/3+,2,Mutant,Itang,34.267,8.2,11050.21,2585A-EPHI-1,1
+2596A,Amhara,pfhrp2+/3-,17,Mutant,Tegede,36.75,13.33,5863.8,2596A-EPHI-1,1
+2616A,Amhara,pfhrp2+/3-,5,Mutant,Tegede,36.75,13.33,3175.98,2616A-EPHI-2,1
+2643A,Amhara,pfhrp2+/3-,15,Mutant,Tegede,36.75,13.33,2021.88,2643A-EPHI-2,1
+2644A,Amhara,pfhrp2+/3-,13,Mutant,Tegede,36.75,13.33,1983,2644A-EPHI-2,1
+2647A,Amhara,pfhrp2+/3-,11,Mutant,Tegede,36.75,13.33,21611.36,2647A-EPHI-2,1
+2653A,Amhara,pfhrp2+/3-,10,Mutant,Tegede,36.75,13.33,12897,2653A-EPHI-2,1
+2657A,Amhara,pfhrp2+/3-,13,Mutant,Tegede,36.75,13.33,6511.99,2657A-EPHI-2,1
+2662A,Amhara,pfhrp2+/3+,13,Mutant,Tegede,36.75,13.33,3014.62,2662A-EPHI-2,1
+2664A,Amhara,pfhrp2+/3-,8,Mutant,Tegede,36.75,13.33,1779.88,2664A-EPHI-2,1
+2665A,Amhara,pfhrp2+/3-,1,Mutant,Tegede,36.75,13.33,84404.82,2665A-EPHI-2,1
+2668A,Amhara,pfhrp2+/3+,4,Mutant,Tegede,36.75,13.33,2330.82,2668A-EPHI-2,1
+2676A,Amhara,pfhrp2+/3+,20,Mutant,Tegede,36.75,13.33,5545.96,2676A-EPHI-2,1
+2678A,Amhara,pfhrp2+/3+,14,Mutant,Tegede,36.75,13.33,8438.75,2678A-EPHI-2,1
+2679A,Amhara,pfhrp2+/3+,11,Mutant,Tegede,36.75,13.33,10300.26,2679A-EPHI-2,1
+2703A,Amhara,pfhrp2+/3+,16,Mutant,Tegede,36.75,13.33,10838.41,2703A-EPHI-2,1
+2726A,Amhara,pfhrp2+/3+,12,Mutant,Tegede,36.75,13.33,357.99,2726A-EPHI-2,1
+2855A,Amhara,pfhrp2-/3-,NA,Mutant,Metema,36.157,12.954,25463.99,2855A-EPHI-2,1
+2867A,Amhara,pfhrp2-/3-,7,Mutant,Tegede,36.75,13.33,53629.84,2867A-EPHI-2,1
+2909A,Amhara,pfhrp2+/3-,NA,Mutant,Metema,36.157,12.954,17334.58,2909A-EPHI-2,1
+2912A,Amhara,pfhrp2+/3-,NA,Mutant,Metema,36.157,12.954,4398.63,2912A-EPHI-2,1
+2933A,Amhara,pfhrp2+/3-,NA,Mutant,Metema,36.157,12.954,7529.09,2933A-EPHI-2,1
+3786T,Tigray,pfhrp2+/3-,38,Mutant,K_Humera,36.6,14.29,13818.74,3786T-EPHI-1,1
+4141T,Tigray,pfhrp2+/3-,4,Mutant,L_Adiabo,38.25,14.33,4786.51,4141T-EPHI-1,1
+5378A,Tigray,pfhrp2+/3-,8,Mutant,Ahferom,39.15,14.28,2124.95,5378A-EPHI-2,1
+5599T,Tigray,pfhrp2+/3+,10,Mutant,Gulomekeda,39.32,14.33,5933.15,5599T-EPHI-1,1
+5774T,Tigray,pfhrp2+/3-,NA,Mutant,T_Adiado,38.24,14.32,7386.93,5774T-EPHI-1,1
+5790T,Tigray,pfhrp2+/3+,13,Mutant,T_Adiabo,38.24,14.32,1243.58,5790T-EPHI-1,1
+1064A,Amhara,pfhrp2+/3-,25,Wild,Metema,36.157,12.954,1123.96,1064A-EPHI-2,1
+1065A,Amhara,pfhrp2+/3+,28,Wild,Metema,36.157,12.954,3033.81,1065A-EPHI-2,1
+1066A,Amhara,pfhrp2+/3+,30,Wild,Metema,36.157,12.954,64909.43,1066A-EPHI-2,1
+1067A,Amhara,pfhrp2+/3-,53,Wild,Metema,36.157,12.954,1379.27,1067A-EPHI-2,1
+1068A,Amhara,pfhrp2+/3+,25,Wild,Metema,36.157,12.954,58459.95,1068A-EPHI-2,1
+1071A,Amhara,pfhrp2+/3-,24,Wild,Metema,36.157,12.954,2740.74,1071A-EPHI-2,1
+1072A,Amhara,pfhrp2+/3+,28,Wild,Metema,36.157,12.954,5399.24,1072A-EPHI-2,1
+1073A,Amhara,pfhrp2+/3-,20,Wild,Metema,36.157,12.954,2953.79,1073A-EPHI-2,1
+1074A,Amhara,pfhrp2+/3-,25,Wild,Metema,36.157,12.954,3835.69,1074A-EPHI-2,1
+1077A,Amhara,pfhrp2+/3+,20,Wild,Metema,36.157,12.954,5754.3,1077A-EPHI-2,1
+1081A,Amhara,pfhrp2+/3+,25,Wild,Metema,36.157,12.954,1412.82,1081A-EPHI-2,1
+1085A,Amhara,pfhrp2+/3+,20,Wild,Metema,36.157,12.954,5918.93,1085A-EPHI-2,1
+1087A,Amhara,pfhrp2+/3+,21,Wild,Metema,36.157,12.954,920.48,1087A-EPHI-2,1
+1088A,Amhara,pfhrp2+/3-,28,Wild,Metema,36.157,12.954,4287.06,1088A-EPHI-2,1
+1089A,Amhara,pfhrp2+/3+,35,Wild,Metema,36.157,12.954,6703.89,1089A-EPHI-2,1
+1090A,Amhara,pfhrp2-/3-,50,Wild,Metema,36.157,12.954,7559.39,1090A-EPHI-2,1
+1091A,Amhara,pfhrp2+/3+,29,Wild,Metema,36.157,12.954,14580.99,1091A-EPHI-2,1
+1092A,Amhara,pfhrp2+/3+,28,Wild,Metema,36.157,12.954,2443.24,1092A-EPHI-2,1
+1096A,Amhara,pfhrp2+/3-,37,Wild,Metema,36.157,12.954,50136.34,1096A-EPHI-2,1
+1100A,Amhara,pfhrp2+/3+,53,Wild,Metema,36.157,12.954,350.74,1100A-EPHI-2,1
+1102A,Amhara,pfhrp2+/3-,27,Wild,Metema,36.157,12.954,46145.02,1102A-EPHI-2,1
+1107A,Amhara,pfhrp2+/3+,25,Wild,Metema,36.157,12.954,22853.79,1107A-EPHI-2,1
+1109A,Amhara,pfhrp2+/3+,19,Wild,Metema,36.157,12.954,8927.83,1109A-EPHI-2,1
+1114DA,Amhara,pfhrp2+/3-,15,Wild,Metema,36.157,12.954,7878.7,1114DA-EPHI-1,1
+1120A,Amhara,pfhrp2+/3+,20,Wild,Metema,36.157,12.954,10040.66,1120A-EPHI-2,1
+1121A,Amhara,pfhrp2+/3+,19,Wild,Metema,36.157,12.954,2582.09,1121A-EPHI-2,1
+1122A,Amhara,pfhrp2+/3-,19,Wild,Metema,36.157,12.954,26433,1122A-EPHI-2,1
+1124A,Amhara,pfhrp2+/3-,18,Wild,Metema,36.157,12.954,8131.46,1124A-EPHI-2,1
+1127A,Amhara,pfhrp2+/3+,30,Wild,Metema,36.157,12.954,2278.32,1127A-EPHI-2,1
+1128A,Amhara,pfhrp2+/3+,20,Wild,Metema,36.157,12.954,3522.23,1128A-EPHI-2,1
+1133A,Amhara,pfhrp2+/3+,21,Wild,Metema,36.157,12.954,12333.76,1133A-EPHI-2,1
+1134A,Amhara,pfhrp2+/3+,17,Wild,Metema,36.157,12.954,9267.21,1134A-EPHI-2,1
+1136A,Amhara,pfhrp2+/3+,27,Wild,Metema,36.157,12.954,14980.49,1136A-EPHI-2,1
+1139A,Amhara,pfhrp2+/3-,18,Wild,Metema,36.157,12.954,12490.12,1139A-EPHI-2,1
+1140A,Amhara,pfhrp2-/3-,19,Wild,Metema,36.157,12.954,4959.18,1140A-EPHI-2,1
+1141A,Amhara,pfhrp2+/3-,20,Wild,Metema,36.157,12.954,29798.17,1141A-EPHI-2,1
+1142A,Amhara,pfhrp2+/3-,20,Wild,Metema,36.157,12.954,17149.6,1142A-EPHI-2,1
+1143A,Amhara,pfhrp2+/3+,17,Wild,Metema,36.157,12.954,664.98,1143A-EPHI-2,1
+1144A,Amhara,pfhrp2+/3+,20,Wild,Metema,36.157,12.954,25310.56,1144A-EPHI-2,1
+1145A,Amhara,pfhrp2+/3-,18,Wild,Metema,36.157,12.954,11786.79,1145A-EPHI-2,1
+1213A,Gambella,pfhrp2+/3-,11,Wild,Itang,34.267,8.2,7017.88,1213A-EPHI-2,1
+1290A,Amhara,pfhrp2+/3+,21,Wild,Metema,36.157,12.954,14644.89,1290A-EPHI-2,1
+1292A,Gambella,pfhrp2+/3-,59,Wild,Kule,34.58,8.25,5151.93,1292A-EPHI-2,1
+1295A,Gambella,pfhrp2+/3-,2,Wild,Kule,34.58,8.25,2612.01,1295A-EPHI-2,1
+1296A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,909.16,1296A-EPHI-2,1
+1309A,Gambella,pfhrp2+/3-,15,Wild,Kule,34.58,8.25,336.89,1309A-EPHI-2,1
+1311A,Gambella,pfhrp2+/3+,21,Wild,Kule,34.58,8.25,6245.8,1311A-EPHI-2,1
+1315A,Amhara,pfhrp2+/3+,35,Wild,Metema,36.157,12.954,11967.39,1315A-EPHI-2,1
+1320A,Amhara,pfhrp2+/3+,25,Wild,Metema,36.157,12.954,19005.1,1320A-EPHI-2,1
+1321A,Amhara,pfhrp2+/3+,40,Wild,Metema,36.157,12.954,16074.59,1321A-EPHI-2,1
+1325A,Amhara,pfhrp2+/3+,30,Wild,Metema,36.157,12.954,580.3,1325A-EPHI-2,1
+1333A,Amhara,pfhrp2+/3-,25,Wild,Metema,36.157,12.954,4350.92,1333A-EPHI-2,1
+1334A,Amhara,pfhrp2+/3+,19,Wild,Metema,36.157,12.954,271.07,1334A-EPHI-2,1
+1337A,Amhara,pfhrp2+/3+,25,Wild,Metema,36.157,12.954,341.98,1337A-EPHI-2,1
+1338A,Amhara,pfhrp2+/3-,28,Wild,Metema,36.157,12.954,2369,1338A-EPHI-2,1
+1346A,Amhara,pfhrp2+/3-,29,Wild,Metema,36.157,12.954,3275.66,1346A-EPHI-2,1
+1351A,Amhara,pfhrp2+/3+,27,Wild,Metema,36.157,12.954,2243.56,1351A-EPHI-2,1
+1352A,Amhara,pfhrp2+/3+,23,Wild,Metema,36.157,12.954,360.65,1352A-EPHI-2,1
+1354A,Amhara,pfhrp2+/3+,23,Wild,Metema,36.157,12.954,3835.32,1354A-EPHI-2,1
+1355A,Amhara,pfhrp2+/3+,27,Wild,Metema,36.157,12.954,3586.77,1355A-EPHI-2,1
+1356A,Amhara,pfhrp2+/3-,28,Wild,Metema,36.157,12.954,1716.36,1356A-EPHI-2,1
+1359A,Amhara,pfhrp2+/3-,31,Wild,Metema,36.157,12.954,1681.4,1359A-EPHI-2,1
+1362A,Gambella,pfhrp2+/3+,NA,Wild,Kule,34.58,8.25,155.95,1362A-EPHI-2,1
+1363A,Gambella,pfhrp2+/3+,12,Wild,Kule,34.58,8.25,3071.91,1363A-EPHI-2,1
+1390A,Amhara,pfhrp2+/3-,18,Wild,Metema,36.157,12.954,1148.02,1390A-EPHI-2,1
+1394A,Amhara,pfhrp2-/3-,25,Wild,Metema,36.157,12.954,23525.04,1394A-EPHI-2,1
+1397A,Amhara,pfhrp2+/3+,8,Wild,Metema,36.157,12.954,39333.61,1397A-EPHI-2,1
+1401A,Amhara,pfhrp2+/3+,18,Wild,Metema,36.157,12.954,1114.05,1401A-EPHI-1,1
+1403A,Amhara,pfhrp2+/3+,11,Wild,Quara,35.746,12.5,380.79,1403A-EPHI-1,1
+1405A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,0,1405A-EPHI-2,1
+1406A,Gambella,pfhrp2+/3-,30,Wild,Kule,34.58,8.25,813.38,1406A-EPHI-2,1
+1407A,Amhara,pfhrp2+/3+,26,Wild,Metema,36.157,12.954,1895.59,1407A-EPHI-1,1
+1412A,Amhara,pfhrp2-/3-,23,Wild,Metema,36.157,12.954,1441.1,1412A-EPHI-1,1
+1416A,Amhara,pfhrp2-/3-,5,Wild,Metema,36.157,12.954,14567.92,1416A-EPHI-1,1
+1419A,Amhara,pfhrp2-/3-,8,Wild,Metema,36.157,12.954,4965.7,1419A-EPHI-1,1
+1424A,Amhara,pfhrp2-/3-,8,Wild,Metema,36.157,12.954,2247.36,1424A-EPHI-2,1
+1694A,Amhara,pfhrp2+/3+,11,Wild,Quara,35.746,12.5,25761.29,1694A-EPHI-1,1
+1695A,Amhara,pfhrp2+/3-,12,Wild,Quara,35.746,12.5,4775.56,1695A-EPHI-1,1
+1696A,Amhara,pfhrp2+/3+,16,Wild,Quara,35.746,12.5,6779.02,1696A-EPHI-1,1
+1720A,Amhara,pfhrp2+/3-,10,Wild,Quara,35.746,12.5,818.64,1720A-EPHI-2,1
+1723A,Amhara,pfhrp2+/3+,20,Wild,Quara,35.746,12.5,40088.79,1723A-EPHI-2,1
+1761A,Amhara,pfhrp2-/3+,40,Wild,Quara,35.746,12.5,492.78,1761A-EPHI-1,1
+1765A,Amhara,pfhrp2+/3+,9,Wild,Quara,35.746,12.5,184.67,1765A-EPHI-1,1
+1766A,Amhara,pfhrp2+/3+,40,Wild,Quara,35.746,12.5,296.62,1766A-EPHI-2,1
+1768A,Amhara,pfhrp2+/3+,40,Wild,Quara,35.746,12.5,272.25,1768A-EPHI-2,1
+1769A,Amhara,pfhrp2+/3+,16,Wild,Quara,35.746,12.5,4468.32,1769A-EPHI-2,1
+1784A,Amhara,pfhrp2+/3-,10,Wild,Quara,35.746,12.5,70758.57,1784A-EPHI-1,1
+1787A,Amhara,pfhrp2-/3-,NA,Wild,Metema,36.157,12.954,2244.1,1787A-EPHI-2,1
+1790A,Amhara,pfhrp2+/3+,26,Wild,Quara,35.746,12.5,529.4,1790A-EPHI-2,1
+1792A,Amhara,pfhrp2-/3+,26,Wild,Quara,35.746,12.5,7409.63,1792A-EPHI-1,1
+1793A,Amhara,pfhrp2+/3-,14,Wild,Quara,35.746,12.5,3392.12,1793A-EPHI-1,1
+1827A,Amhara,pfhrp2+/3-,19,Wild,Quara,35.746,12.5,4494.35,1827A-EPHI-2,1
+1828A,Amhara,pfhrp2+/3-,14,Wild,Quara,35.746,12.5,28219.64,1828A-EPHI-2,1
+1829A,Amhara,pfhrp2+/3+,15,Wild,Quara,35.746,12.5,3141.49,1829A-EPHI-2,1
+1830A,Amhara,pfhrp2+/3+,28,Wild,Quara,35.746,12.5,8702.45,1830A-EPHI-2,1
+1831A,Amhara,pfhrp2+/3-,22,Wild,Quara,35.746,12.5,9790.13,1831A-EPHI-2,1
+1833A,Amhara,pfhrp2+/3+,22,Wild,Quara,35.746,12.5,39064.41,1833A-EPHI-2,1
+1836DA,Amhara,pfhrp2-/3-,7,Wild,Quara,35.746,12.5,8571.12,1836DA-EPHI-1,1
+1839A,Amhara,pfhrp2-/3-,44,Wild,Quara,35.746,12.5,6432.92,1839A-EPHI-2,1
+1845A,Amhara,pfhrp2+/3+,13,Wild,Quara,35.746,12.5,49033.74,1845A-EPHI-2,1
+1846A,Amhara,pfhrp2+/3+,20,Wild,Quara,35.746,12.5,1145.73,1846A-EPHI-2,1
+1847A,Amhara,pfhrp2+/3-,14,Wild,Quara,35.746,12.5,2782.83,1847A-EPHI-2,1
+1849A,Amhara,pfhrp2+/3+,18,Wild,Quara,35.746,12.5,18892.33,1849A-EPHI-2,1
+1853DA,Amhara,pfhrp2-/3-,20,Wild,Quara,35.746,12.5,30450.95,1853DA-EPHI-1,1
+1854A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,266,1854A-EPHI-2,1
+1860A,Amhara,pfhrp2+/3+,19,Wild,Quara,35.746,12.5,1385.6,1860A-EPHI-2,1
+1861DA,Amhara,pfhrp2-/3-,19,Wild,Quara,35.746,12.5,4439.81,1861DA-EPHI-1,1
+1862A,Amhara,pfhrp2+/3+,28,Wild,Quara,35.746,12.5,891.4,1862A-EPHI-2,1
+1864DA,Amhara,pfhrp2-/3-,15,Wild,Quara,35.746,12.5,13033.14,1864DA-EPHI-1,1
+1909DA,Amhara,pfhrp2+/3+,16,Wild,Quara,35.746,12.5,13725.28,1909DA-EPHI-1,1
+1913A,Amhara,pfhrp2+/3+,15,Wild,Quara,35.746,12.5,13791.92,1913A-EPHI-2,1
+1917A,Amhara,pfhrp2+/3+,18,Wild,Quara,35.746,12.5,71419.52,1917A-EPHI-2,1
+1918A,Amhara,pfhrp2+/3+,31,Wild,Quara,35.746,12.5,29435.12,1918A-EPHI-2,1
+1919A,Amhara,pfhrp2+/3-,8,Wild,Quara,35.746,12.5,25922,1919A-EPHI-2,1
+1920A,Amhara,pfhrp2+/3+,12,Wild,Quara,35.746,12.5,22565.93,1920A-EPHI-2,1
+1921A,Amhara,pfhrp2+/3-,28,Wild,Quara,35.746,12.5,8252.47,1921A-EPHI-2,1
+1923DA,Amhara,pfhrp2+/3+,25,Wild,Quara,35.746,12.5,3206.57,1923DA-EPHI-1,1
+1928A,Amhara,pfhrp2+/3+,15,Wild,Quara,35.746,12.5,4770.97,1928A-EPHI-2,1
+1941A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,34085.32,1941A-EPHI-2,1
+1959A,Amhara,pfhrp2+/3-,11,Wild,Quara,35.746,12.5,5911.93,1959A-EPHI-2,1
+1960A,Amhara,pfhrp2+/3+,15,Wild,Quara,35.746,12.5,994.72,1960A-EPHI-2,1
+1961A,Amhara,pfhrp2+/3+,25,Wild,Quara,35.746,12.5,26973.05,1961A-EPHI-2,1
+1970A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,8376.24,1970A-EPHI-2,1
+1972A,Amhara,pfhrp2-/3-,36,Wild,Quara,35.746,12.5,2664.13,1972A-EPHI-2,1
+2000A,Amhara,pfhrp2+/3+,60,Wild,Quara,35.746,12.5,2339.09,2000A-EPHI-2,1
+2016A,Amhara,pfhrp2+/3+,22,Wild,West_ Armachiho,36.45,13.39,797.72,2016A-EPHI-2,1
+2027A,Amhara,pfhrp2+/3+,13,Wild,West_ Armachiho,36.45,13.39,7681.05,2027A-EPHI-2,1
+2077A,Amhara,pfhrp2-/3+,11,Wild,West_ Armachiho,36.45,13.39,18608.88,2077A-EPHI-2,1
+2104A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,1987.74,2104A-EPHI-1,1
+2108A,Amhara,pfhrp2+/3-,31,Wild,West_ Armachiho,36.45,13.39,5297.02,2108A-EPHI-1,1
+2110A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,6691.69,2110A-EPHI-1,1
+2117A,Amhara,pfhrp2-/3-,NA,Wild,Metema,36.157,12.954,22181.99,2117A-EPHI-1,1
+2124A,Amhara,pfhrp2-/3-,NA,Wild,Metema,36.157,12.954,3662.27,2124A-EPHI-1,1
+2125A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,889.32,2125A-EPHI-1,1
+2139A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,2717,2139A-EPHI-1,1
+2174A,Amhara,pfhrp2-/3-,35,Wild,West_ Armachiho,36.45,13.39,28985.85,2174A-EPHI-1,1
+2175A,Amhara,pfhrp2+/3-,21,Wild,West_ Armachiho,36.45,13.39,450.02,2175A-EPHI-1,1
+2177A,Amhara,pfhrp2-/3-,4,Wild,West_ Armachiho,36.45,13.39,1504.51,2177A-EPHI-2,1
+2186A,Amhara,pfhrp2+/3-,43,Wild,West_ Armachiho,36.45,13.39,721.67,2186A-EPHI-1,1
+2206A,Amhara,pfhrp2-/3-,NA,Wild,Metema,36.157,12.954,7899.29,2206A-EPHI-1,1
+2213A,Amhara,pfhrp2-/3-,19,Wild,West_ Armachiho,36.45,13.39,4742.78,2213A-EPHI-1,1
+2240A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,7271.2,2240A-EPHI-1,1
+2242A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,23392.39,2242A-EPHI-1,1
+2270A,Amhara,pfhrp2-/3-,18,Wild,West_ Armachiho,36.45,13.39,8268.71,2270A-EPHI-1,1
+2278A,Amhara,pfhrp2+/3-,3,Wild,West_ Armachiho,36.45,13.39,531.72,2278A-EPHI-1,1
+2279DA,Amhara,pfhrp2-/3-,13,Wild,West_ Armachiho,36.45,13.39,1492.43,2279DA-EPHI-1,1
+2284A,Amhara,pfhrp2+/3+,19,Wild,West_ Armachiho,36.45,13.39,8803.14,2284A-EPHI-1,1
+2285A,Amhara,pfhrp2-/3-,30,Wild,Tegede,36.75,13.33,15798.8,2285A-EPHI-1,1
+2286A,Amhara,pfhrp2-/3-,13,Wild,West_ Armachiho,36.45,13.39,2623.1,2286A-EPHI-1,1
+2288A,Amhara,pfhrp2-/3+,19,Wild,West_ Armachiho,36.45,13.39,19793.73,2288A-EPHI-1,1
+2291A,Amhara,pfhrp2+/3+,20,Wild,West_ Armachiho,36.45,13.39,23371.4,2291A-EPHI-1,1
+2360A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,4438.46,2360A-EPHI-1,1
+2430A,Amhara,pfhrp2-/3-,25,Wild,West_ Armachiho,36.45,13.39,6671.46,2430A-EPHI-1,1
+2432A,Amhara,pfhrp2+/3+,29,Wild,West_ Armachiho,36.45,13.39,3043.1,2432A-EPHI-1,1
+2433A,Amhara,pfhrp2+/3+,8,Wild,West_ Armachiho,36.45,13.39,3417.47,2433A-EPHI-1,1
+2435A,Amhara,pfhrp2-/3-,17,Wild,West_ Armachiho,36.45,13.39,3509.08,2435A-EPHI-1,1
+2438A,Amhara,pfhrp2+/3-,35,Wild,West_ Armachiho,36.45,13.39,1136.32,2438A-EPHI-1,1
+2440A,Amhara,pfhrp2+/3+,7,Wild,West_ Armachiho,36.45,13.39,40268.88,2440A-EPHI-1,1
+2444A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,5038.24,2444A-EPHI-1,1
+2446A,Amhara,pfhrp2+/3-,18,Wild,West_ Armachiho,36.45,13.39,1574.92,2446A-EPHI-1,1
+2447A,Amhara,pfhrp2+/3+,17,Wild,West_ Armachiho,36.45,13.39,839.31,2447A-EPHI-1,1
+2448A,Gambella,pfhrp2-/3+,10,Wild,Itang,34.267,8.2,7931.98,2448A-EPHI-1,1
+2450A,Gambella,pfhrp2+/3+,10,Wild,Kule,34.58,8.25,23729.31,2450A-EPHI-1,1
+2460A,Amhara,pfhrp2+/3-,9,Wild,West_ Armachiho,36.45,13.39,4555.22,2460A-EPHI-1,1
+2462A,Amhara,pfhrp2+/3-,20,Wild,West_ Armachiho,36.45,13.39,2244.51,2462A-EPHI-1,1
+2465A,Amhara,pfhrp2+/3+,20,Wild,West_ Armachiho,36.45,13.39,2802.5,2465A-EPHI-1,1
+2481A,Amhara,pfhrp2+/3+,35,Wild,West_ Armachiho,36.45,13.39,3492.76,2481A-EPHI-1,1
+2484A,Gambella,pfhrp2-/3-,15,Wild,Kule,34.58,8.25,4874.88,2484A-EPHI-1,1
+2487A,Amhara,pfhrp2+/3+,21,Wild,West_ Armachiho,36.45,13.39,2804.75,2487A-EPHI-1,1
+2493A,Amhara,pfhrp2+/3-,26,Wild,West_ Armachiho,36.45,13.39,9541.53,2493A-EPHI-1,1
+2497A,Amhara,pfhrp2-/3+,10,Wild,West_ Armachiho,36.45,13.39,1765.54,2497A-EPHI-1,1
+2563A,Amhara,pfhrp2+/3+,19,Wild,Tegede,36.75,13.33,377.26,2563A-EPHI-1,1
+2564A,Gambella,pfhrp2+/3-,12,Wild,Itang,34.267,8.2,3218.65,2564A-EPHI-1,1
+2573A,Amhara,pfhrp2+/3-,28,Wild,Tegede,36.75,13.33,1589.2,2573A-EPHI-1,1
+2581A,Gambella,pfhrp2+/3-,15,Wild,Itang,34.267,8.2,173.3,2581A-EPHI-1,1
+2586A,Amhara,pfhrp2+/3+,23,Wild,Tegede,36.75,13.33,4868.67,2586A-EPHI-1,1
+2601A,Amhara,pfhrp2+/3-,13,Wild,Tegede,36.75,13.33,11969.54,2601A-EPHI-2,1
+2613A,Amhara,pfhrp2+/3+,18,Wild,Tegede,36.75,13.33,6350.69,2613A-EPHI-2,1
+2617A,Amhara,pfhrp2+/3+,12,Wild,Tegede,36.75,13.33,1417.56,2617A-EPHI-2,1
+2620A,Amhara,pfhrp2+/3-,19,Wild,Tegede,36.75,13.33,29202.09,2620A-EPHI-2,1
+2622A,Amhara,pfhrp2+/3-,14,Wild,Tegede,36.75,13.33,4256.36,2622A-EPHI-2,1
+2623A,Amhara,pfhrp2+/3-,2,Wild,Tegede,36.75,13.33,19061.89,2623A-EPHI-2,1
+2625A,Amhara,pfhrp2-/3-,12,Wild,Tegede,36.75,13.33,515.81,2625A-EPHI-2,1
+2645A,Amhara,pfhrp2+/3-,12,Wild,Tegede,36.75,13.33,14040.42,2645A-EPHI-2,1
+2649A,Amhara,pfhrp2+/3-,20,Wild,Tegede,36.75,13.33,4982.24,2649A-EPHI-2,1
+2652A,Amhara,pfhrp2+/3-,5,Wild,Tegede,36.75,13.33,24764.44,2652A-EPHI-2,1
+2656A,Amhara,pfhrp2-/3-,8,Wild,Tegede,36.75,13.33,9687.26,2656A-EPHI-2,1
+2659A,Amhara,pfhrp2+/3-,20,Wild,Tegede,36.75,13.33,7011.5,2659A-EPHI-2,1
+2681A,Amhara,pfhrp2+/3-,12,Wild,Tegede,36.75,13.33,19359.88,2681A-EPHI-2,1
+2682A,Amhara,pfhrp2+/3-,25,Wild,Tegede,36.75,13.33,1579.14,2682A-EPHI-2,1
+2684A,Amhara,pfhrp2+/3+,10,Wild,Tegede,36.75,13.33,9964.02,2684A-EPHI-2,1
+2688A,Amhara,pfhrp2+/3-,27,Wild,Tegede,36.75,13.33,1928.78,2688A-EPHI-2,1
+2689A,Amhara,pfhrp2+/3-,22,Wild,Tegede,36.75,13.33,2003.06,2689A-EPHI-2,1
+2691A,Amhara,pfhrp2+/3+,28,Wild,Tegede,36.75,13.33,151.53,2691A-EPHI-2,1
+2692A,Amhara,pfhrp2+/3+,10,Wild,Tegede,36.75,13.33,2656.01,2692A-EPHI-2,1
+2700A,Amhara,pfhrp2+/3-,11,Wild,Tegede,36.75,13.33,496.1,2700A-EPHI-2,1
+2702A,Amhara,pfhrp2+/3-,24,Wild,Tegede,36.75,13.33,1924.93,2702A-EPHI-2,1
+2704A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,1076.75,2704A-EPHI-1,1
+2711A,Amhara,pfhrp2+/3+,35,Wild,Tegede,36.75,13.33,4800.66,2711A-EPHI-2,1
+2716A,Amhara,pfhrp2+/3-,3,Wild,Tegede,36.75,13.33,16371.47,2716A-EPHI-2,1
+2718A,Amhara,pfhrp2+/3-,14,Wild,Tegede,36.75,13.33,971.27,2718A-EPHI-2,1
+2722A,Amhara,pfhrp2-/3-,35,Wild,Tegede,36.75,13.33,3617.47,2722A-EPHI-2,1
+2723A,Amhara,pfhrp2+/3-,2,Wild,Tegede,36.75,13.33,22475.15,2723A-EPHI-2,1
+2732A,Amhara,pfhrp2+/3-,5,Wild,Tegede,36.75,13.33,20583.13,2732A-EPHI-2,1
+2734A,Amhara,pfhrp2+/3-,4,Wild,Tegede,36.75,13.33,18516.64,2734A-EPHI-2,1
+2765A,Amhara,pfhrp2+/3+,12,Wild,Tegede,36.75,13.33,4000.19,2765A-EPHI-1,1
+2766A,Amhara,pfhrp2+/3+,16,Wild,Tegede,36.75,13.33,12235.19,2766A-EPHI-2,1
+2767A,Amhara,pfhrp2+/3-,24,Wild,Tegede,36.75,13.33,14586.41,2767A-EPHI-2,1
+2850A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,591.89,2850A-EPHI-2,1
+2851A,Amhara,pfhrp2+/3-,1,Wild,Tegede,36.75,13.33,2168.48,2851A-EPHI-2,1
+2859A,Amhara,pfhrp2-/3-,NA,Wild,Metema,36.157,12.954,15575.9,2859A-EPHI-2,1
+2862A,Amhara,pfhrp2+/3+,5,Wild,Tegede,36.75,13.33,2498.67,2862A-EPHI-2,1
+2874A,Amhara,pfhrp2+/3-,31,Wild,Tegede,36.75,13.33,1364.2,2874A-EPHI-2,1
+2875A,Amhara,pfhrp2+/3+,12,Wild,Tegede,36.75,13.33,33037.77,2875A-EPHI-2,1
+2877A,Amhara,pfhrp2+/3-,9,Wild,Tegede,36.75,13.33,10200.9,2877A-EPHI-2,1
+2878A,Amhara,pfhrp2+/3-,25,Wild,Tegede,36.75,13.33,899.55,2878A-EPHI-2,1
+2879A,Amhara,pfhrp2+/3-,25,Wild,Tegede,36.75,13.33,1079.04,2879A-EPHI-2,1
+2907A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,214.7,2907A-EPHI-2,1
+2934A,Amhara,pfhrp2+/3+,17,Wild,Tegede,36.75,13.33,14952.9,2934A-EPHI-2,1
+2935A,Amhara,pfhrp2+/3-,57,Wild,Tegede,36.75,13.33,338.58,2935A-EPHI-2,1
+2936A,Amhara,pfhrp2+/3+,17,Wild,Tegede,36.75,13.33,25993.27,2936A-EPHI-2,1
+2940A,Amhara,pfhrp2+/3+,NA,Wild,Metema,36.157,12.954,4259.43,2940A-EPHI-2,1
+2941A,Amhara,pfhrp2+/3-,NA,Wild,Metema,36.157,12.954,11749.38,2941A-EPHI-2,1
+2945A,Amhara,pfhrp2+/3-,30,Wild,Tegede,36.75,13.33,3649.31,2945A-EPHI-2,1
+2953A,Amhara,pfhrp2-/3-,24,Wild,Tegede,36.75,13.33,3357.34,2953A-EPHI-2,1
+2954A,Amhara,pfhrp2+/3-,21,Wild,Tegede,36.75,13.33,1070.2,2954A-EPHI-2,1
+2960A,Amhara,pfhrp2-/3-,18,Wild,Tegede,36.75,13.33,2603.82,2960A-EPHI-2,1
+2961A,Amhara,pfhrp2-/3-,18,Wild,Tegede,36.75,13.33,641.95,2961A-EPHI-2,1
+2962A,Amhara,pfhrp2+/3+,18,Wild,Tegede,36.75,13.33,6343.96,2962A-EPHI-2,1
+2994A,Amhara,pfhrp2-/3-,NA,Wild,Metema,36.157,12.954,2072.64,2994A-EPHI-2,1
+3125T,Tigray,pfhrp2-/3+,19,Wild,At_Tsimbila,38.25,14.11,27223.75,3125T-EPHI-1,1
+3127T,Tigray,pfhrp2+/3+,18,Wild,At_Tsimbila,38.25,14.11,5770.68,3127T-EPHI-1,1
+3131T,Tigray,pfhrp2+/3+,18,Wild,At_Tsimbila,38.25,14.11,3686,3131T-EPHI-1,1
+3132T,Tigray,pfhrp2+/3+,5,Wild,At_Tsimbila,38.25,14.11,1497.5,3132T-EPHI-1,1
+3133T,Tigray,pfhrp2+/3+,6,Wild,At_Tsimbila,38.25,14.11,434.29,3133T-EPHI-1,1
+3184T,Tigray,pfhrp2-/3+,23,Wild,At_Tsimbila,38.25,14.11,472.48,3184T-EPHI-1,1
+3186T,Tigray,pfhrp2-/3+,15,Wild,At_Tsimbila,38.25,14.11,528.12,3186T-EPHI-1,1
+3187A,Tigray,pfhrp2+/3+,12,Wild,At_Tsimbila,38.25,14.11,4519.7,3187A-EPHI-2,1
+3316T,Tigray,pfhrp2+/3+,18,Wild,At_Tsimbila,38.25,14.11,1660.28,3316T-EPHI-1,1
+3317A,Tigray,pfhrp2+/3+,34,Wild,At_Tsimbila,38.25,14.11,949.95,3317A-EPHI-2,1
+3346T,Tigray,pfhrp2-/3+,48,Wild,K_Humera,36.6,14.29,1186.22,3346T-EPHI-1,1
+3385T,Gambella,pfhrp2+/3+,16,Wild,Kule,34.58,8.25,2823.73,3385T-EPHI-1,1
+3392T,Tigray,pfhrp2-/3-,17,Wild,At_Tsimbila,38.25,14.11,3675.39,3392T-EPHI-1,1
+3396T,Tigray,pfhrp2+/3+,8,Wild,At_Tsimbila,38.25,14.11,297.67,3396T-EPHI-1,1
+3397T,Tigray,pfhrp2+/3+,9,Wild,At_Tsimbila,38.25,14.11,8056.47,3397T-EPHI-1,1
+3439DT,Tigray,pfhrp2-/3-,63,Wild,At_Tsimbila,38.25,14.11,266.69,3439DT-EPHI-1,1
+3690T,Tigray,pfhrp2+/3-,17,Wild,Gulomekeda,39.32,14.33,3082.38,3690T-EPHI-1,1
+3772T,Tigray,pfhrp2+/3-,23,Wild,Gulomekeda,39.32,14.33,1386.45,3772T-EPHI-1,1
+3789A,Tigray,pfhrp2+/3-,6,Wild,K_Humera,36.6,14.29,29903.28,3789A-EPHI-2,1
+3806T,Tigray,pfhrp2+/3-,12,Wild,K_Humera,36.6,14.29,51449.85,3806T-EPHI-1,1
+3812T,Tigray,pfhrp2-/3-,NA,Wild,T_Adiado,38.24,14.32,1945.33,3812T-EPHI-1,1
+3818T,Tigray,pfhrp2-/3-,2,Wild,Gulomekeda,39.32,14.33,6267.46,3818T-EPHI-1,1
+3932T,Tigray,pfhrp2+/3+,82,Wild,Gulomekeda,39.32,14.33,19413.71,3932T-EPHI-1,1
+3933DT,Tigray,pfhrp2-/3-,6,Wild,Gulomekeda,39.32,14.33,4583.39,3933DT-EPHI-1,1
+3934A,Tigray,pfhrp2-/3+,12,Wild,Gulomekeda,39.32,14.33,13073.2,3934A-EPHI-2,1
+3935T,Tigray,pfhrp2+/3+,59,Wild,Gulomekeda,39.32,14.33,27422.48,3935T-EPHI-1,1
+4149DT,Tigray,pfhrp2-/3-,7,Wild,L_Adiabo,38.25,14.33,3045.02,4149DT-EPHI-1,1
+4247A,Tigray,pfhrp2+/3+,20,Wild,L_Adiabo,38.25,14.33,15005.63,4247A-EPHI-2,1
+4248A,Tigray,pfhrp2+/3+,29,Wild,L_Adiabo,38.25,14.33,4256.68,4248A-EPHI-2,1
+4375T,Tigray,pfhrp2+/3-,21,Wild,L_Adiabo,38.25,14.33,2251.34,4375T-EPHI-1,1
+4441DT,Tigray,pfhrp2+/3-,23,Wild,L_Adiabo,38.25,14.33,1499.21,4441DT-EPHI-1,1
+4457T,Tigray,pfhrp2+/3-,20,Wild,L_Adiabo,38.25,14.33,4092.29,4457T-EPHI-1,1
+4460T,Tigray,pfhrp2+/3-,10,Wild,L_Adiabo,38.25,14.33,4082.92,4460T-EPHI-1,1
+4461A,Tigray,pfhrp2+/3-,19,Wild,L_Adiabo,38.25,14.33,2836.48,4461A-EPHI-2,1
+4544T,Tigray,pfhrp2+/3-,16,Wild,K_Humera,36.6,14.29,2657.82,4544T-EPHI-1,1
+4546T,Tigray,pfhrp2+/3-,5,Wild,K_Humera,36.6,14.29,884.89,4546T-EPHI-1,1
+4625T,Tigray,pfhrp2+/3+,24,Wild,K_Humera,36.6,14.29,210.67,4625T-EPHI-1,1
+4640T,Tigray,pfhrp2-/3+,13,Wild,K_Humera,36.6,14.29,10345.22,4640T-EPHI-1,1
+4825T,Tigray,pfhrp2+/3-,22,Wild,K_Humera,36.6,14.29,12402.2,4825T-EPHI-1,1
+4861A,Tigray,pfhrp2+/3+,19,Wild,K_Humera,36.6,14.29,21435.36,4861A-EPHI-2,1
+4898DT,Tigray,pfhrp2-/3-,27,Wild,K_Humera,36.6,14.29,4711.85,4898DT-EPHI-1,1
+5085T,Tigray,pfhrp2+/3+,24,Wild,L_Adiabo,38.25,14.33,4874.88,5085T-EPHI-1,1
+5089A,Tigray,pfhrp2+/3-,12,Wild,Ahferom,39.15,14.28,2006.39,5089A-EPHI-2,1
+5124T,Tigray,pfhrp2+/3-,NA,Wild,T_Adiado,38.24,14.32,356.62,5124T-EPHI-1,1
+5125T,Tigray,pfhrp2+/3+,NA,Wild,T_Adiado,38.24,14.32,4550.06,5125T-EPHI-1,1
+5126T,Tigray,pfhrp2-/3-,NA,Wild,T_Adiado,38.24,14.32,1395.15,5126T-EPHI-1,1
+5128T,Tigray,pfhrp2+/3-,17,Wild,Ahferom,39.15,14.28,2232.44,5128T-EPHI-1,1
+5311T,Tigray,pfhrp2+/3-,15,Wild,Ahferom,39.15,14.28,1721.85,5311T-EPHI-1,1
+5313T,Tigray,pfhrp2-/3-,16,Wild,Ahferom,39.15,14.28,1870.01,5313T-EPHI-1,1
+5374T,Tigray,pfhrp2-/3+,20,Wild,Ahferom,39.15,14.28,3629.45,5374T-EPHI-1,1
+5375DT,Tigray,pfhrp2-/3-,30,Wild,Ahferom,39.15,14.28,1827.29,5375DT-EPHI-1,1
+5431T,Tigray,pfhrp2+/3-,6,Wild,Ahferom,39.15,14.28,751.47,5431T-EPHI-1,1
+5492T,Tigray,pfhrp2-/3-,14,Wild,L_Adiabo,38.25,14.33,2539.05,5492T-EPHI-1,1
+5495DT,Tigray,pfhrp2-/3-,4,Wild,Ahferom,39.15,14.28,9285.95,5495DT-EPHI-1,1
+5499T,Tigray,pfhrp2+/3+,2,Wild,T_Adiado,38.24,14.32,1328.43,5499T-EPHI-1,1
+5583T,Tigray,pfhrp2+/3+,12,Wild,T_Adiabo,38.24,14.32,588.45,5583T-EPHI-1,1
+5584T,Tigray,pfhrp2+/3+,12,Wild,T_Adiabo,38.24,14.32,1421.06,5584T-EPHI-1,1
+5596A,Tigray,pfhrp2+/3-,3,Wild,Gulomekeda,39.32,14.33,5076.66,5596A-EPHI-2,1
+5597T,Tigray,pfhrp2+/3+,4,Wild,Gulomekeda,39.32,14.33,2374.46,5597T-EPHI-1,1
+5600T,Tigray,pfhrp2+/3-,5,Wild,Gulomekeda,39.32,14.33,2260.86,5600T-EPHI-1,1
+5601T,Tigray,pfhrp2+/3-,45,Wild,L_Adiabo,38.25,14.33,1093.07,5601T-EPHI-1,1
+5872T,Tigray,pfhrp2+/3+,30,Wild,T_Adiabo,38.24,14.32,2645.38,5872T-EPHI-1,1
+5918T,Tigray,pfhrp2-/3-,6,Wild,T_Adiabo,38.24,14.32,12146.27,5918T-EPHI-1,1
+5919T,Tigray,pfhrp2+/3+,30,Wild,T_Adiabo,38.24,14.32,3035.34,5919T-EPHI-1,1
+5920A,Tigray,pfhrp2+/3+,1,Wild,T_Adiabo,38.24,14.32,17544.54,5920A-EPHI-2,1
+5921T,Tigray,pfhrp2-/3+,10,Wild,T_Adiabo,38.24,14.32,2112.47,5921T-EPHI-1,1
+5956T,Tigray,pfhrp2+/3+,12,Wild,T_Adiabo,38.24,14.32,1549.43,5956T-EPHI-1,1
+8410T,Tigray,pfhrp2-/3-,13,Wild,T_Adiabo,38.24,14.32,3563.91,8410T-EPHI-1,1
