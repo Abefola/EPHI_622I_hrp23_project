@@ -1,5 +1,5 @@
 
-# Abebe Fola
+# Abebe Fola (Original code was written by E Reichert)
 # Feb 2023
 
 library(boot)
