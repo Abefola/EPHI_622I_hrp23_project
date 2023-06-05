@@ -1,5 +1,5 @@
 
-# Abebe Fola
+# Abebe Fola (Original code was written by E Reichert to analayze 622I prevalence)
 # Feb 2023
 
 
