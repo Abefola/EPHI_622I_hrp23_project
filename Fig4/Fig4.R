@@ -49,7 +49,7 @@ pop1_metadata<-read.table("pop1_metadata.tsv", sep="\t")
 A1<-colnames(pop1_metadata) <- c("sample_id", "hrp23status")
 
 
-pop12_metadata<-read.table("pop2_metadata.tsv", sep="\t")
+pop2_metadata<-read.table("pop2_metadata.tsv", sep="\t")
 A2<-colnames(pop2_metadata) <- c("sample_id", "R622Istatus")
 
 
