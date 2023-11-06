@@ -45,7 +45,7 @@ name = "pf_ephi"
 
 # Define Two pops 
 
-pop1_metadata<-read.table("pop1_metadata.csv", sep="\t")
+pop1_metadata<-read.table("pop1_metadata.tsv", sep="\t")
 A1<-colnames(pop1_metadata) <- c("sample_id", "hrp23status")
 
 
