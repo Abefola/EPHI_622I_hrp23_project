@@ -117,7 +117,7 @@ pop2 = factor(pop2_metadata$R622Istatus)[match(ephi_pca$sample.id,
                                              pop2_metadata$sample_id)]
 
 # Write pca file.tsv format
-tab <- data.frame(ephi_pca$sample.id,pop3, EV1, EV2, stringsAsFactors = FALSE)
+tab <- data.frame(ephi_pca$sample.id,pop1, EV1, EV2, stringsAsFactors = FALSE)
 write.table(tab, file=paste(name,'-PCA1_2hpr23status_final.tsv', sep=""), 
             quote = F, row.names = F, sep="\t")
 head(tab)
